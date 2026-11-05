@@ -13,12 +13,12 @@
 
 ---
 
-## `01` — About me
+About me
 
 สวัสดีครับ ผม **Chakphet** นักศึกษา Information Technology ที่ Mahidol University  
 ชอบเรียนรู้จากการลงมือทำและลองสร้างโปรเจกต์ของตัวเอง
 
-## `02` — Languages & tools
+##— Languages & tools
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-101820?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/CSS-101820?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS">
 </p>
 
-## `03` — Selected projects
+Selected projects
 
 | Project | รายละเอียด |
 |---|---|
@@ -37,18 +37,9 @@
 | [Ai-Coach](https://github.com/chakphet999/Ai-Coach) | โปรเจกต์ Ai-Coach |
 | [Muge_smokegame](https://github.com/chakphet999/Muge_smokegame) | โปรเจกต์ Muge_smokegame |
 
-## `04` — GitHub stats
 
-<div align="center">
 
-<a href="https://github.com/chakphet999">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chakphet999&show_icons=true&theme=github_dark&hide_border=true&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakphet999&layout=compact&theme=github_dark&hide_border=true&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages">
-</a>
 
-</div>
-
-## `05` — Contribution snake
 
 <div align="center">
 
@@ -60,7 +51,7 @@
 
 </div>
 
-## `06` — Contact
+Contact
 
 - GitHub: [@chakphet999](https://github.com/chakphet999)
 - Email: **ใส่อีเมลที่ต้องการเผยแพร่**
