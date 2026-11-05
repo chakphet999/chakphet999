@@ -54,13 +54,7 @@ Selected projects
 Contact
 
 - GitHub: [@chakphet999](https://github.com/chakphet999)
-- Email: **ใส่อีเมลที่ต้องการเผยแพร่**
-- Portfolio / LinkedIn: **ใส่ URL ถ้ามี**
+- Email: chakphet.lil@student.mahidol.ac.th
+- Portfolio / LinkedIn: [Chakphet Lileck](https://www.linkedin.com/in/chakphet-lileck-6b180a441/)
 
----
-
-<div align="center">
-
-<sub>Thanks for stopping by · เรียนรู้ไปทีละโปรเจกต์</sub>
-
-</div>
+------------------------------------------------------------------------------------------------------------------------------------------
