@@ -15,8 +15,8 @@
 
 About me
 
-สวัสดีครับ ผม **Chakphet** นักศึกษา Information Technology ที่ Mahidol University  
-ชอบเรียนรู้จากการลงมือทำและลองสร้างโปรเจกต์ของตัวเอง
+สวัสดีครับ ผม **Chakphet Lileck** นักศึกษา Information Technology ที่ Mahidol University  
+
 
 ##— Languages & tools
 
