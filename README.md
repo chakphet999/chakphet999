@@ -1,42 +1,75 @@
 <div align="center">
 
-# Chakphet
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:12372A,100:1F6F50&height=190&section=header&text=Chakphet&fontSize=48&fontColor=E8F5E9&fontAlignY=38&desc=Information%20Technology%20%40%20Mahidol%20University&descAlignY=60&descSize=15" width="100%" alt="Chakphet — Information Technology student at Mahidol University">
 
-Information Technology student at Mahidol University
+<br>
 
-*Learning by building, one project at a time.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-chakphet999-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/chakphet999)
+<a href="https://github.com/chakphet999">
+  <img src="https://img.shields.io/badge/GitHub-chakphet999-101820?style=for-the-badge&logo=github&logoColor=E8F5E9" alt="GitHub profile">
+</a>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-12372A?style=for-the-badge&labelColor=101820" alt="Learning">
 
 </div>
 
 ---
 
-### About
+## `01` — About me
 
-I'm an Information Technology student at Mahidol University. I enjoy learning by making things and figuring them out as I go.
+สวัสดีครับ ผม **Chakphet** นักศึกษา Information Technology ที่ Mahidol University  
+ชอบเรียนรู้จากการลงมือทำและลองสร้างโปรเจกต์ของตัวเอง
 
-### Languages & tools
+## `02` — Languages & tools
 
-`JavaScript` · `TypeScript` · `Python` · `Java` · `CSS`
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-101820?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-101820?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-101820?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Java-101820?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/CSS-101820?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS">
+</p>
 
-### Selected projects
+## `03` — Selected projects
 
-- [My-Portfolio](https://github.com/chakphet999/My-Portfolio) — personal portfolio
-- [New-World](https://github.com/chakphet999/New-World) — barbershop queue booking project
-- [Ai-Coach](https://github.com/chakphet999/Ai-Coach)
-- [Muge_smokegame](https://github.com/chakphet999/Muge_smokegame)
+| Project | รายละเอียด |
+|---|---|
+| [My-Portfolio](https://github.com/chakphet999/My-Portfolio) | เว็บไซต์ Portfolio ส่วนตัว |
+| [New-World](https://github.com/chakphet999/New-World) | โปรเจกต์จองคิวร้านตัดผม |
+| [Ai-Coach](https://github.com/chakphet999/Ai-Coach) | โปรเจกต์ Ai-Coach |
+| [Muge_smokegame](https://github.com/chakphet999/Muge_smokegame) | โปรเจกต์ Muge_smokegame |
 
-### GitHub stats
+## `04` — GitHub stats
 
-[![Chakphet's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakphet999&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/chakphet999)
+<div align="center">
 
-### Find me
+<a href="https://github.com/chakphet999">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chakphet999&show_icons=true&theme=github_dark&hide_border=true&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakphet999&layout=compact&theme=github_dark&hide_border=true&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages">
+</a>
+
+</div>
+
+## `05` — Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chakphet999/chakphet999/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chakphet999/chakphet999/output/github-snake.svg">
+  <img alt="Snake animation eating the contribution graph" src="https://raw.githubusercontent.com/chakphet999/chakphet999/output/github-snake.svg" width="100%">
+</picture>
+
+</div>
+
+## `06` — Contact
 
 - GitHub: [@chakphet999](https://github.com/chakphet999)
 - Email: **ใส่อีเมลที่ต้องการเผยแพร่**
 - Portfolio / LinkedIn: **ใส่ URL ถ้ามี**
 
-### Contribution snake
+---
 
-![Contribution graph snake](https://raw.githubusercontent.com/chakphet999/chakphet999/output/github-snake.svg)
+<div align="center">
+
+<sub>Thanks for stopping by · เรียนรู้ไปทีละโปรเจกต์</sub>
+
+</div>
