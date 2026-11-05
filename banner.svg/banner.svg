@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none">
+  <rect width="1200" height="280" rx="20" fill="#151b24"/>
+  <rect x="1" y="1" width="1198" height="278" rx="19" stroke="#394553" stroke-width="2"/>
+  <circle cx="34" cy="34" r="7" fill="#e58a72"/>
+  <circle cx="58" cy="34" r="7" fill="#e5bd70"/>
+  <circle cx="82" cy="34" r="7" fill="#83b9a6"/>
+  <text x="114" y="40" fill="#a8b3c2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">~/profile</text>
+  <path d="M32 62H1168" stroke="#303a47"/>
+  <text x="72" y="151" fill="#f0eee8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="54" font-weight="700">chakphet999</text>
+  <rect x="73" y="177" width="50" height="4" rx="2" fill="#e58a72"/>
+  <text x="72" y="217" fill="#a8b3c2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="1.2">INFORMATION TECHNOLOGY  ·  MAHIDOL UNIVERSITY</text>
+  <g opacity="0.9" stroke="#83b9a6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M928 116L900 140L928 164"/><path d="M1014 116L1042 140L1014 164"/><path d="M988 105L954 175"/>
+  </g>
+  <circle cx="1100" cy="82" r="5" fill="#e5bd70"/><circle cx="1134" cy="82" r="5" fill="#e5bd70"/>
+  <circle cx="1100" cy="198" r="5" fill="#e5bd70"/><circle cx="1134" cy="198" r="5" fill="#e5bd70"/>
+</svg>
